@@ -52,7 +52,7 @@ Each table contains relevant fields with appropriate primary and foreign keys to
 ## 🔁 ER Diagram
 
 A complete ER diagram is available to visualize relationships among entities like patients, nurses, physicians, procedures, and rooms.  
-![ER Diagram](./images/er_diagram.png)
+![ER Diagram](https://github.com/babban52/Hospital-Database-Management-System-SQL-Project/blob/main/7.png)
 
 ---
 
